@@ -1,2 +1,2 @@
 # FirstLook
-thilina.2016124@iit.ac.lk Thilina Dissanayake thilina999 IA4
+thilinasupunsara@gmail.com Thilina Dissanayake thilina999 IA4
