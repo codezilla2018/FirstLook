@@ -1,0 +1,23 @@
+{
+  "name": "firstlook",
+  "version": "1.0.0",
+  "description": "A bot that tweets about latest movies",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codezilla2018/FirstLook.git"
+  },
+  "author": "Thilina Dissanayake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codezilla2018/FirstLook/issues"
+  },
+  "homepage": "https://github.com/codezilla2018/FirstLook#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
