@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/codezilla2018/FirstLook#readme",
   "dependencies": {
+    "feed-read-parser": "^1.0.5",
     "twit": "^2.2.9"
   }
 }
