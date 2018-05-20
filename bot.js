@@ -26,9 +26,7 @@ function getFeed() {
 function Tweet(tweet) {
     Bot.post('statuses/update', {status: tweet }, function(err, data,response) {
         if (err) {
-			if(err.code!=187){
 				console.log(err);
-			}           
         } else {
             console.log('Bot Tweeted');
         }
