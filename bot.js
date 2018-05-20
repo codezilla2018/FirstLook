@@ -14,11 +14,7 @@ function getFeed() {
         if(err) {
             throw new Error(err.message);
         } else {   
-			/*
-			while 
-			tweet = "" + articles[0].title + ' \n #FirstLook #NewTrailer #NewMovie ' + articles[0].link;
-			//setInterval( function() { Tweet(tweet); }, 60*1000 );
-			*/
+
 			
             tweet = "" + articles[0].title + ' \n #FirstLook #NewTrailer #NewMovie ' + articles[0].link;
 			Tweet(tweet);	
