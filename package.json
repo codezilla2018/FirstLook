@@ -1,7 +1,7 @@
 {
   "name": "firstlook",
   "version": "1.0.0",
-  "description": "A bot that tweets about latest movies",
+  "description": "A bot that tweets about latest movies with its movie trailer",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js",
