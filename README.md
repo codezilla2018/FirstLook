@@ -19,9 +19,9 @@ You can add any youtube channel as your wish. Only you have to do is adding the 
 
 ### Contribution Guide
 - Fork it
-- Create your feature branch ( ```sh git checkout -b my-new-feature ``` )
-- Commit your changes ( ```sh git commit -am 'Add some feature' ``` )
-- Push to the branch ( ```sh git push origin my-new-feature ``` )
+- Create your feature branch ( ``` git checkout -b my-new-feature ``` )
+- Commit your changes ( ``` git commit -am 'Add some feature' ``` )
+- Push to the branch ( ``` git push origin my-new-feature ``` )
 - Create new Pull Request
 
 ### License
