@@ -24,6 +24,7 @@ function getFeed() {
         }
     });
 }
+
 /* 
 Then we tweets the string 
 */
