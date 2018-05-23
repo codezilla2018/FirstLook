@@ -10,7 +10,9 @@ getFeed();
 // Call the getFeed function after every 24 hours 
 setInterval( getFeed, 24*60*60*1000 );
 
-/* Here we finds the latest released movie trailer from a YouTube channel */
+/*
+ Here we finds the latest released movie trailer from a YouTube channel
+*/
 function getFeed() {
     feed("https://www.youtube.com/feeds/videos.xml?channel_id=UCT0hbLDa-unWsnZ6Rjzkfug", function(err,articles) {
         if(err) {
@@ -22,7 +24,9 @@ function getFeed() {
         }
     });
 }
-/* Then we tweets the string */
+/* 
+Then we tweets the string 
+*/
 function Tweet(tweet) {
     Bot.post('statuses/update', {status: tweet }, function(err, data,response) {
         if (err) {
