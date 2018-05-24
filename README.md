@@ -1,5 +1,6 @@
 # FirstLook                 
 Firstlook is a twitter bot that will tweet about latest movies.This will check for a latest movie trailer from a youtube channel daily (every 24 hours) and if there is one, it will be tweeted with its YouTube trailer link. This is already deployed in heroku.
+[Demo]
 
 ### Pre-requisites
 - NodeJs
@@ -30,3 +31,4 @@ This software is released under the MIT License.
 ##### Copyright (c) 2018 CodeZilla 2018
 
 [here]: <https://apps.twitter.com/>
+[Demo]: <https://twitter.com/FirstLook16/>
